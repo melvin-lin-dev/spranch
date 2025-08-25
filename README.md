@@ -4,7 +4,7 @@
 Spranch is a **web-based presentation application** designed to simplify creating and presenting slides.  
 Unlike traditional tools like PowerPoint or Canva, Spranch focuses on **ease of use**, **branching flows**, and **smooth navigation**, making it beginner-friendly while supporting advanced presentation structures.
 
-This project was developed as part of a thesis to improve how users create interactive and non-linear presentations.
+This project was developed to improve how users create interactive and non-linear presentations.
 
 ## Features
 - **User-Friendly Interface** – Simple and intuitive UI designed for all users.
